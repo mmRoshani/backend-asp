@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/ShopManagment/" />
+  <Folder Name="/ShopManagment/SM.Application/">
+    <Project Path="ShopManagement.Application.Contracts/ShopManagement.Application.Contracts.csproj" Id="75c8c945-33ba-4bb2-a57b-c70f7fb1117f" />
+  </Folder>
+  <Folder Name="/ShopManagment/SM.Domain/">
+    <Project Path="ShopManagment.Domain/ShopManagment.Domain.csproj" Id="0994e7eb-7cfa-47f7-8154-febebb2a5363" />
+  </Folder>
+  <Project Path="0_Framework/0_Framework.csproj" Id="1097f86c-d400-4432-97fc-e4a3756d338a" />
+</Solution>
